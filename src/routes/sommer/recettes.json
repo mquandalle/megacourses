@@ -1,0 +1,94 @@
+{
+  "recettes": [
+    {
+      "nom": "Salade César",
+      "ingredients": [
+        {
+          "nom": "Laitue",
+          "quantite": "1 tête",
+          "categorie": "Légumes"
+        },
+        {
+          "nom": "Parmesan",
+          "quantite": "100g",
+          "categorie": "Produits Laitiers"
+        },
+        {
+          "nom": "Croûtons",
+          "quantite": "50g",
+          "categorie": "Pâtisserie et Boulangerie"
+        }
+      ]
+    },
+    {
+      "nom": "Spaghetti Bolognaise",
+      "ingredients": [
+        {
+          "nom": "Spaghetti",
+          "quantite": "200g",
+          "categorie": "Céréales et Féculents"
+        },
+        {
+          "nom": "Viande hachée",
+          "quantite": "300g",
+          "categorie": "Viandes"
+        },
+        {
+          "nom": "Sauce tomate",
+          "quantite": "200g",
+          "categorie": "Conservés"
+        }
+      ]
+    },
+    {
+      "nom": "Smoothie aux Fruits",
+      "ingredients": [
+        {
+          "nom": "Banane",
+          "quantite": "1",
+          "categorie": "Fruits"
+        },
+        {
+          "nom": "Yaourt",
+          "quantite": "200g",
+          "categorie": "Produits Laitiers"
+        }
+      ]
+    },
+    {
+      "nom": "Poulet au Curry",
+      "ingredients": [
+        {
+          "nom": "Poulet",
+          "quantite": "400g",
+          "categorie": "Viandes"
+        },
+        {
+          "nom": "Curry",
+          "quantite": "2 cuillères à soupe",
+          "categorie": "Épices et Assaisonnements"
+        }
+      ]
+    },
+    {
+      "nom": "Pancakes",
+      "ingredients": [
+        {
+          "nom": "Farine",
+          "quantite": "200g",
+          "categorie": "Céréales et Féculents"
+        },
+        {
+          "nom": "Oeuf",
+          "quantite": "2",
+          "categorie": "Produits Laitiers"
+        },
+        {
+          "nom": "Lait",
+          "quantite": "200ml",
+          "categorie": "Produits Laitiers"
+        }
+      ]
+    }
+  ]
+}

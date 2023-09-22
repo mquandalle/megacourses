@@ -1,0 +1,82 @@
+[
+  {
+    "nom": "Légumes",
+    "emoji": "🥦"
+  },
+  {
+    "nom": "Fruits",
+    "emoji": "🍎"
+  },
+  {
+    "nom": "Viandes",
+    "emoji": "🍖"
+  },
+  {
+    "nom": "Poissons et Fruits de Mer",
+    "emoji": "🐟"
+  },
+  {
+    "nom": "Produits Laitiers",
+    "emoji": "🥛"
+  },
+  {
+    "nom": "Céréales et Féculents",
+    "emoji": "🍚"
+  },
+  {
+    "nom": "Épices et Assaisonnements",
+    "emoji": "🌶️"
+  },
+  {
+    "nom": "Condiments et Sauces",
+    "emoji": "🍯"
+  },
+  {
+    "nom": "Boissons",
+    "emoji": "🍹"
+  },
+  {
+    "nom": "Produits Surgelés",
+    "emoji": "🍦"
+  },
+  {
+    "nom": "Pâtisserie et Boulangerie",
+    "emoji": "🍞"
+  },
+  {
+    "nom": "Snacks et Grignotages",
+    "emoji": "🍪"
+  },
+  {
+    "nom": "Huiles et Graisses",
+    "emoji": "🛢️"
+  },
+  {
+    "nom": "Conservés",
+    "emoji": "🥫"
+  },
+  {
+    "nom": "Produits Bio",
+    "emoji": "🌱"
+  },
+  {
+    "nom": "Produits du Monde",
+    "emoji": "🌍"
+  },
+  {
+    "nom": "Chocolat et Confiserie",
+    "emoji": "🍫"
+  },
+  {
+    "nom": "Aliments pour Bébé",
+    "emoji": "🍼"
+  },
+  {
+    "nom": "Ingrédients Spéciaux",
+    "emoji": "🌟"
+  },
+  {
+    "nom": "Autres",
+    "emoji": "🔍"
+  }
+]
